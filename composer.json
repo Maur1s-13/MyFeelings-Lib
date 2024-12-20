@@ -1,0 +1,17 @@
+{
+    "name": "thoma/library-duo-project",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Thoma\\LibraryDuoProject\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Thomas Stöckl",
+            "email": "thomas.stoeckl98@gmail.com"
+        }
+    ],
+    "require": {}
+}
